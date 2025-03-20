@@ -36,29 +36,29 @@ Vi har skapat en applikation för Yum Yum Gimmie Sum där man kan registrera sig
 
 #### Vika var de största utmaningarna för dig?
 
-(insert answer here...)
+Att ta mig an svåra uppgifter och våga be om hjälp av (huvudsakligen) sedan tidigare främmande gruppmedlemmar.
 
 #### Hur löste eller hanterade du dessa utmaningar?
 
-(insert answer here...)
+Jag arbetade aktivt med att ställa frågor så fort jag inte förstod vad någon menade eller om där fanns kod jag inte förstod. I vår sprint retro pratade jag även om att det var ett av mina mål.
 
 #### Vilka kompromisser inom teamet har du fått göra under projektets gång?
 
-(insert answer here...)
+Att vissa saker funktioner gjordes mer funktionella än vad jag tänkt att man skulle börja med. Min inställning var att hårdkoda det mesta för att få en proof of koncept app, för att sedan bygga den faktiska funktionalitet för att t.ex. kunna registrera användare. Men andra gruppmedlemmar ville bygga grunden för funktionaliteten så det var det vi gjorde och i slutändan så använde vi oss mycket ut av den och det underlättade det senare arbetet.
 
 ### Individuell reflektion och utvärdering
 
 #### Vad lärde du dig under projektets gång?
 
-(insert answer here...)
+Vikten av att ha en grundlig struktur och att vara närvarande och lättillgänglig. Vi satt mycket i Discord även om vi inte hade ett specifikt möte igång. På så sätt var alla lättillgängliga, det var lätt att ställa frågor och det blev allmänt god stämning.
 
 #### Finns det någonting du skulle velat göra annorlunda om du fick chansen igen?
 
-(insert answer here...)
+Jag hade kanske velat ta längre tid på mig på varje task och göra det så skalbart som möjligt istället för att känna stress att bli färdig med tasks.
 
 #### Vilka möjligheter ser du med de kunskaper du fått under arbetet med projektet?
 
-(insert answer here...)
+
 
 ### VG-frågor (minst 200 tecken)
 
