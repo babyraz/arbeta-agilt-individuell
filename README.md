@@ -20,15 +20,17 @@ Jag var lite nervös inför att jobba i just den här gruppen min upplevelse var
 
 #### Hur tycker du att planeringen inför projektet fungerade?
 
-(insert answer here...)
+Väldigt bra. Vi diskuterade och satte poängvärden på alla user stories och valde sedan ut vad vi skulle göra i första sprinten och skissade upp vyerna i Figma. Vi pratade mycket om MVP och hur vi skulle prioritera bland user stories för att få en fungerande produkt som i alla fall kan funka som proof of concept - att man ska kunna lägga en beställning.
 
 #### Vad har du bidragit med i planeringen, samt utvecklandet av applikationen.
 
-(insert answer here...)
+Jag har bidragit med att tänka utifrån MVP, ibland behöva resonera kring vad som är logiskt att genomföra vs hur enkelt vi ska göra det för oss själva. Ex. när vi gick igenom user story gällande att kunden ska få en leveranstid tänkte vissa gruppmedlemmar att man behövde ha ett logisk uträkning för hur lång tid det faktiskt skulle ta att göra medan jag tänkte, att till en början i alla fall, så kan vi slumpa fram en tid  som känns rimlig. När vi sedan har alla grundläggande funktioner på plats så hade vi kunnat förbättra/utveckla sådana funktioner.
+
+I själva applikationen har jag gjort login-sidan med tillhörande logik som validerar gentemot localstorage. Jag har varit med och utvecklat vår "databas" - vi skapade klasser för kunder och admin för att kunna spara inloggningsuppgifter. Jag gjorde även en "hitta oss" sida med tre kartor som skiftar mellan tre platser i Malmö, Göteborg och Stockholm för att simulera att foodtruckarna rör på sig. Jag skapade även en admin sida med statistik om hur försäljningen ser ut och funktionalitet kopplat till login-sidan - loggar man in som admin kommer man till admin-sidan. Jag gjorde en liten funktion för att slumpa fram en leversanstid mellan 10 och 20 minuter. Utöver det har jag gjort flera småsaker, som att ändra så att LOGGA IN knappen ändras till LOGGA UT om man är inloggad, och att LOGGA UT faktiskt loggar ut användaren. Utöver detta har jag gjort diverse buggfixar.
 
 #### Beskriv med dina egna ord, er applikation
 
-(insert answer here...)
+Vi har skapat en applikation för Yum Yum Gimmie Sum där man kan registrera sig och logga in som användare, lägga en eller flera beställningar, få kvitto och se orderhistorik. Man kan även se vart foodtruckarna finns i realtid samt få mer info på "om oss" sidan. Appen har även funktionalitet för att man som admin kan se statistik på försäljningen.
 
 ### Teamets utmaningar och lösningar
 
