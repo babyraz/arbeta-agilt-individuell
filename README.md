@@ -1,4 +1,5 @@
-# arbeta-agilt-individuell
+länk till gruppens repo
+https://github.com/holmnotfound/Yum-Yum-Gimmie-Sum.git
 
 # Individuella reflektioner
 
@@ -58,7 +59,7 @@ Jag hade kanske velat ta längre tid på mig på varje task och göra det så sk
 
 #### Vilka möjligheter ser du med de kunskaper du fått under arbetet med projektet?
 
-
+Jag tycker att jag har fått en insikt i hur arbetslivet faktiskt ser ut som programmerare, både att jobba i team och enligt scrum men också själva processen av att skapa olika sidor/funktioner som ska lira med andras kod och att kunna felsöka genom 
 
 ### VG-frågor (minst 200 tecken)
 
